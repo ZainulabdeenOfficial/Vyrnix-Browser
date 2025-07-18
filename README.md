@@ -96,7 +96,7 @@ Got ideas or need help?
 
 ## 📄 License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [Eclipse Public License 2.0 ](LICENSE).
 
 ---
 
