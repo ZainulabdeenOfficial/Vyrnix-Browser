@@ -1,5 +1,9 @@
 <h1 align="center">🌐 Vyrnix Browser</h1>
 <p align="center">
+  <img src="https://github.com/ZainulabdeenOfficial/Vyrnix-Browser/blob/main/broswrbanner.png?raw=true" alt="Vyrnix Browser Banner" width="100%">
+</p>
+
+<p align="center">
 🚀 Fast. 🔒 Private. 🎨 Beautiful.<br>
 An open-source, secure, and lightning-fast web browser.
 </p>
