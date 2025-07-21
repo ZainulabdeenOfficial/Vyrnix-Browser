@@ -1,0 +1,47 @@
+# Brave Browser Clone - Ad Blocking List
+# This list contains common ad and tracker domains to block
+
+# Ad Networks
+||doubleclick.net^
+||googleadservices.com^
+||googlesyndication.com^
+||amazon-adsystem.com^
+||adsystem.com^
+||adsyndication.net^
+||adnxs.com^
+||adsense.com^
+
+# Analytics & Tracking
+||google-analytics.com^
+||googletagmanager.com^
+||facebook.com/tr^
+||analytics.yahoo.com^
+||scorecardresearch.com^
+||quantserve.com^
+||hotjar.com^
+||mouseflow.com^
+||fullstory.com^
+
+# Social Media Trackers
+||connect.facebook.net^
+||widgets.pinterest.com^
+||platform.twitter.com^
+||platform.linkedin.com^
+
+# Generic Ad Patterns
+/ads/*
+/advertisement/*
+/banner/*
+/popup/*
+/tracking/*
+
+# Known Malware/Phishing
+||malware.example.com^
+||phishing.example.com^
+
+# Privacy-focused blocking
+||outbrain.com^
+||taboola.com^
+||criteo.com^
+||adsrvr.org^
+||adform.net^ 

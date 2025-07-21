@@ -1,0 +1,16 @@
+{
+  "short_name": "Vyrnix",
+  "name": "Vyrnix Browser",
+  "description": "A powerful privacy-focused web browser with advanced features",
+  "icons": [
+    {
+      "src": "vyrnix-icon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+} 
